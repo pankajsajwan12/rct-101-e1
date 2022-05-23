@@ -8,6 +8,7 @@ const Task = () => {
       <input type="checkbox" data-cy="task-checkbox" />
       <div data-cy="task-text"></div>
       {/* Counter here */}
+      {/* hlw i am from task */}
       <button data-cy="task-remove-button"></button>
     </li>
   );
